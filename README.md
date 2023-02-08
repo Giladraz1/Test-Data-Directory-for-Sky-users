@@ -1,4 +1,4 @@
-# Sort & Filter Data Tables in Angular
+<!-- # Sort & Filter Data Tables in Angular
 
 This repository holds the code sample for my blog post [Sort & Filter Data Tables in Angular](https://arminzia.com/blog/sort-and-filter-data-tables-in-angular).
 
@@ -17,4 +17,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
 
-&copy; 2021 [Armin Zia](https://arminzia.com)
+&copy; 2021 [Armin Zia](https://arminzia.com) -->
